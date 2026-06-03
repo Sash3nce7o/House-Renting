@@ -162,3 +162,4 @@
 /home/sash/codes/asp-net/house/HouseRentingSystemApi/obj/Debug/net10.0/HouseRentingSystemApi.pdb
 /home/sash/codes/asp-net/house/HouseRentingSystemApi/obj/Debug/net10.0/HouseRentingSystemApi.genruntimeconfig.cache
 /home/sash/codes/asp-net/house/HouseRentingSystemApi/obj/Debug/net10.0/ref/HouseRentingSystemApi.dll
+/home/sash/codes/asp-net/house/HouseRentingSystemApi/obj/Debug/net10.0/HouseRentingSystemApi.sourcelink.json
